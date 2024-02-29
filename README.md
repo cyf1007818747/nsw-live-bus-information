@@ -29,6 +29,10 @@ For first-time users, here's a quick guide to help you navigate the application 
 3. **Interacting with Vehicles:** Click on any vehicle on the map to reveal more detailed information, such as its route, status, and any delays.
 4. **Customizing Your View:** Use the filtering options to tailor the displayed vehicles to your needs, whether you're looking for less congested buses or focusing on a particular route.
 
+## Demo
+
+<img width="1385" alt="Screen Shot 2024-02-29 at 3 30 36 PM" src="https://github.com/cyf1007818747/nsw-live-bus-information/assets/41173223/cda79fdf-68f2-4c11-b087-5bef5cc43620">
+
 ## Support
 
 If you encounter any issues or have suggestions for improvement, please feel free to open an issue on the GitHub repository. Your feedback is invaluable in making this tool more effective for everyone.
