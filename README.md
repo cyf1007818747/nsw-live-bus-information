@@ -31,7 +31,21 @@ For first-time users, here's a quick guide to help you navigate the application 
 
 ## Demo
 
-<img width="1385" alt="Screen Shot 2024-02-29 at 3 30 36 PM" src="https://github.com/cyf1007818747/nsw-live-bus-information/assets/41173223/cda79fdf-68f2-4c11-b087-5bef5cc43620">
+Display all buses:
+<img width="1440" alt="Screen Shot 2024-02-29 at 11 27 16 PM" src="https://github.com/cyf1007818747/nsw-live-bus-information/assets/41173223/a3f9e557-89cf-467c-96bd-8bde43fea1e2">
+
+Filter by congestion level:
+<img width="1440" alt="Screen Shot 2024-02-29 at 11 27 34 PM" src="https://github.com/cyf1007818747/nsw-live-bus-information/assets/41173223/549a4b4c-4312-42c9-a195-24822a3abe2f">
+
+Filter by data and time:
+<img width="1439" alt="Screen Shot 2024-02-29 at 11 29 47 PM" src="https://github.com/cyf1007818747/nsw-live-bus-information/assets/41173223/8dbb06c5-fff9-40e4-8d75-252826ed6023">
+
+Show detailed information for an individual bus:
+<img width="1439" alt="Screen Shot 2024-02-29 at 11 30 10 PM" src="https://github.com/cyf1007818747/nsw-live-bus-information/assets/41173223/504d298c-215a-412c-b9d7-07f32a56ce79">
+
+Switch to map layer:
+<img width="1439" alt="Screen Shot 2024-02-29 at 11 30 22 PM" src="https://github.com/cyf1007818747/nsw-live-bus-information/assets/41173223/f7512fa4-71c7-4604-a715-63098aba52e3">
+
 
 ## Support
 
